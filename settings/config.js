@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 module.exports = {
-    TOKEN: process.env.TOKEN || "OTUwMTY5Mjg3MjkxNzExNTA4.GQd0Dt.XR05fvmGiYG0sL3Xtd82hJz0hwvU25oc2sgIi8",
+    TOKEN: process.env.TOKEN || "",
     PREFIX: process.env.PREFIX || "e!",
     OWNER_ID: process.env.OWNER_ID || "549131026262130688",
     DEV_ID: process.env.DEV_ID || " ",
@@ -18,13 +18,13 @@ module.exports = {
     AUTO_DEPLOY: process.env.AUTO_DEPLOY || "true",
 
 
-    hookerror: process.env.HOOKERROR || "https://discord.com/api/webhooks/1064953012264648765/-UF5Zv2JMNlMMHqTCil5-zV923aj5jVq7yypPFDjwBtF04j1JrFqlo-c1votmDYvqRBS",
+    hookerror: process.env.HOOKERROR || "",
 
     NODES: [
         {
             name: process.env.NODES_NAME || 'For Elysia',
             url: process.env.NODES_URL || '78.108.218.114:25203',
-            auth: process.env.EMBED_AUTH || 'mysparkedserver',
+            auth: process.env.EMBED_AUTH || '',
             secure: false
         }
     ],

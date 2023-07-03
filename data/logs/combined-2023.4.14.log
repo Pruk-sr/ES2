@@ -1,0 +1,144 @@
+{"level":30,"time":1684060150468,"pid":82,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[CLIENT] 1 shard(s) spawned."}
+{"level":30,"time":1684060154322,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684060155600,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 8 AutoRun events."}
+{"level":30,"time":1684060155667,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684060156654,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 75 Commands Loaded!"}
+{"level":30,"time":1684060157068,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684060157077,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684060158464,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684060158580,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684060158584,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":50,"time":1684060158767,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1684060158771,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":30,"time":1684060158779,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684060159096,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684060161877,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684060161877,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":50,"time":1684060164091,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1684060164166,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1684060169373,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1684060169380,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1684060174385,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1684060174387,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1684060179391,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1684060179392,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1684060184395,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1684060184399,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":40,"time":1684060184401,"pid":90,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Disconnected"}
+{"level":30,"time":1684060240068,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[CLIENT] 1 shard(s) spawned."}
+{"level":30,"time":1684060243980,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684060245165,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684060245183,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684060245404,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 75 Commands Loaded!"}
+{"level":30,"time":1684060245469,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684060245472,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684060246084,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684060246573,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684060246681,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684060246688,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":50,"time":1684060246874,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: socket hang up"}
+{"level":50,"time":1684060246878,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":30,"time":1684060247472,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684060249465,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684060249466,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":50,"time":1684060251901,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: socket hang up"}
+{"level":50,"time":1684060251905,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1684060256912,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: socket hang up"}
+{"level":50,"time":1684060256914,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1684060261917,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: read ECONNRESET"}
+{"level":50,"time":1684060261919,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1684060266923,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: read ECONNRESET"}
+{"level":50,"time":1684060266924,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1684060271928,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: read ECONNRESET"}
+{"level":50,"time":1684060271930,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":40,"time":1684060271931,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Disconnected"}
+{"level":30,"time":1684060302074,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[CLIENT] 1 shard(s) spawned."}
+{"level":30,"time":1684060306187,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684060307662,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684060307700,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684060308071,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 75 Commands Loaded!"}
+{"level":30,"time":1684060308094,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684060308170,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684060308781,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684060309189,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684060309281,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684060309284,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684060309893,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684060310484,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684060311677,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684060311677,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684062797678,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[CLIENT] 1 shard(s) spawned."}
+{"level":30,"time":1684062801777,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684062802889,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684062802905,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684062803088,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 75 Commands Loaded!"}
+{"level":30,"time":1684062803170,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684062803179,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684062803825,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684062804293,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684062804370,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684062804374,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684062804516,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684062804670,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684062807374,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684062807374,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684068240172,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[CLIENT] 1 shard(s) spawned."}
+{"level":30,"time":1684068243772,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684068245269,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684068245285,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684068245296,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684068245300,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":50,"time":1684068245475,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"Cannot find module '../../data/Mongodb/Control.js'\nRequire stack:\n- /home/container/commands/Music/AutoPlay.js\n- /home/container/handlers/loadCommand.js\n- /home/container/index.js","stack":"Error: Cannot find module '../../data/Mongodb/Control.js'\nRequire stack:\n- /home/container/commands/Music/AutoPlay.js\n- /home/container/handlers/loadCommand.js\n- /home/container/index.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at Object.<anonymous> (/home/container/commands/Music/AutoPlay.js:2:17)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Module._load (node:internal/modules/cjs/loader:958:12)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at load (/home/container/handlers/loadCommand.js:7:24)\n    at /home/container/handlers/loadCommand.js:12:85\n    at Array.forEach (<anonymous>)\n    at module.exports (/home/container/handlers/loadCommand.js:12:72)\n    at /home/container/index.js:92:148\n    at Array.forEach (<anonymous>)\n    at Object.<anonymous> (/home/container/index.js:92:109)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","code":"MODULE_NOT_FOUND","requireStack":["/home/container/commands/Music/AutoPlay.js","/home/container/handlers/loadCommand.js","/home/container/index.js"]},"msg":"Unhandled Rejection: Cannot find module '../../data/Mongodb/Control.js'\nRequire stack:\n- /home/container/commands/Music/AutoPlay.js\n- /home/container/handlers/loadCommand.js\n- /home/container/index.js"}
+{"level":30,"time":1684068246868,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684068246891,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684068246895,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684068246966,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684068246989,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684068247306,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684068248516,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684068248516,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684068325569,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[CLIENT] 1 shard(s) spawned."}
+{"level":30,"time":1684068329670,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684068330963,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684068330987,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684068331165,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684068331172,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":50,"time":1684068331278,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"ENOENT: no such file or directory, scandir './commands/dev/'","stack":"Error: ENOENT: no such file or directory, scandir './commands/dev/'\n    at readdirSync (node:fs:1452:3)\n    at load (/home/container/handlers/loadCommand.js:5:26)\n    at /home/container/handlers/loadCommand.js:12:85\n    at Array.forEach (<anonymous>)\n    at module.exports (/home/container/handlers/loadCommand.js:12:72)\n    at /home/container/index.js:92:148\n    at Array.forEach (<anonymous>)\n    at Object.<anonymous> (/home/container/index.js:92:109)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","errno":-2,"syscall":"scandir","code":"ENOENT","path":"./commands/dev/"},"msg":"Unhandled Rejection: ENOENT: no such file or directory, scandir './commands/dev/'"}
+{"level":30,"time":1684068332270,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684068332572,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684068332590,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684068332666,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684068332777,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684068333075,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684068334305,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684068334305,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684068610797,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[CLIENT] 1 shard(s) spawned."}
+{"level":30,"time":1684068614770,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":50,"time":1684068614811,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"Cannot find module '@joshdb/json'\nRequire stack:\n- /home/container/handlers/Data.js\n- /home/container/index.js","stack":"Error: Cannot find module '@joshdb/json'\nRequire stack:\n- /home/container/handlers/Data.js\n- /home/container/index.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at Object.<anonymous> (/home/container/handlers/Data.js:4:18)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Module._load (node:internal/modules/cjs/loader:958:12)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)","code":"MODULE_NOT_FOUND","requireStack":["/home/container/handlers/Data.js","/home/container/index.js"]},"msg":"Uncaught Exception Monitor: Cannot find module '@joshdb/json'\nRequire stack:\n- /home/container/handlers/Data.js\n- /home/container/index.js"}
+{"level":50,"time":1684068614865,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"Cannot find module '@joshdb/json'\nRequire stack:\n- /home/container/handlers/Data.js\n- /home/container/index.js","stack":"Error: Cannot find module '@joshdb/json'\nRequire stack:\n- /home/container/handlers/Data.js\n- /home/container/index.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at Object.<anonymous> (/home/container/handlers/Data.js:4:18)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Module._load (node:internal/modules/cjs/loader:958:12)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)","code":"MODULE_NOT_FOUND","requireStack":["/home/container/handlers/Data.js","/home/container/index.js"]},"msg":"Uncaught Exception: Cannot find module '@joshdb/json'\nRequire stack:\n- /home/container/handlers/Data.js\n- /home/container/index.js"}
+{"level":30,"time":1684068617570,"pid":91,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684068698393,"pid":143,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[CLIENT] 1 shard(s) spawned."}
+{"level":30,"time":1684068702570,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684068703985,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684068704006,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684068704208,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684068704280,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684068704287,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684068705003,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684068705437,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684068705483,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684068705483,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684068705670,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684068705831,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684068707875,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684068707876,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684075191743,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684076260101,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684078180283,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684086032120,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684098104300,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684110495711,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684124321221,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684132222962,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684135273780,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684148066002,"pid":151,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}

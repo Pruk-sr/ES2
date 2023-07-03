@@ -1,0 +1,37 @@
+{"level":30,"time":1684602953307,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684602956116,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684602959913,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 7 AutoRun events."}
+{"level":30,"time":1684602960062,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684602960577,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684602960690,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684602960776,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684602961980,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684602967364,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684602967444,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684602967447,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":50,"time":1684602967476,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1684602967488,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":30,"time":1684602967826,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":50,"time":1684602972966,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1684602972969,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1684602977977,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1684602977984,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1684602982990,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1684602982990,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1684602987993,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1684602987996,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1684602992999,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1684602993007,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":40,"time":1684602993008,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Disconnected"}
+{"level":30,"time":1684607088262,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684608030497,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684615222374,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684617466416,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684621897084,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684624394371,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684638054297,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684640092436,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684653279608,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684656445068,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684657766925,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684666306495,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}

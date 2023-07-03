@@ -1,0 +1,76 @@
+{"level":30,"time":1686568995907,"pid":10296,"hostname":"Pruk","msg":"Launched Cluster 0"}
+{"level":30,"time":1686568996870,"pid":8816,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1686568997419,"pid":8816,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1686568997420,"pid":8816,"hostname":"Pruk","msg":"Loaded 0 AutoRun events."}
+{"level":30,"time":1686568997446,"pid":8816,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1686568997568,"pid":8816,"hostname":"Pruk","msg":"Client 19 Commands Loaded!"}
+{"level":30,"time":1686568997581,"pid":8816,"hostname":"Pruk","msg":"Player Events Loaded!"}
+{"level":30,"time":1686568997587,"pid":8816,"hostname":"Pruk","msg":"Track Events Loaded!"}
+{"level":30,"time":1686568998112,"pid":8816,"hostname":"Pruk","msg":"31 Interactions Loaded!"}
+{"level":30,"time":1686569007590,"pid":8816,"hostname":"Pruk","msg":"Shard 0 has been spawn!"}
+{"level":30,"time":1686569007668,"pid":8816,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1686569007671,"pid":8816,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1686569007680,"pid":8816,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 10.862s"}
+{"level":30,"time":1686569008184,"pid":8816,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1686569008245,"pid":8816,"hostname":"Pruk","msg":"Lavalink [For Elysia] connected."}
+{"level":50,"time":1686569091889,"pid":8816,"hostname":"Pruk","msg":"Errored ::TypeError: Cannot read properties of undefined (reading 'permissions')"}
+{"level":30,"time":1686569409523,"pid":8888,"hostname":"Pruk","msg":"Launched Cluster 0"}
+{"level":30,"time":1686569410618,"pid":3284,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1686569411243,"pid":3284,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1686569411244,"pid":3284,"hostname":"Pruk","msg":"Loaded 0 AutoRun events."}
+{"level":30,"time":1686569411268,"pid":3284,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1686569411379,"pid":3284,"hostname":"Pruk","msg":"Client 19 Commands Loaded!"}
+{"level":30,"time":1686569411395,"pid":3284,"hostname":"Pruk","msg":"Player Events Loaded!"}
+{"level":30,"time":1686569411401,"pid":3284,"hostname":"Pruk","msg":"Track Events Loaded!"}
+{"level":30,"time":1686569411956,"pid":3284,"hostname":"Pruk","msg":"31 Interactions Loaded!"}
+{"level":30,"time":1686569413157,"pid":3284,"hostname":"Pruk","msg":"Shard 0 has been spawn!"}
+{"level":30,"time":1686569413184,"pid":3284,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1686569413186,"pid":3284,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1686569413195,"pid":3284,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.634s"}
+{"level":30,"time":1686569413793,"pid":3284,"hostname":"Pruk","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1686569413867,"pid":3284,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1686569490868,"pid":15232,"hostname":"Pruk","msg":"Launched Cluster 0"}
+{"level":30,"time":1686569491710,"pid":20876,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1686569492119,"pid":20876,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1686569492120,"pid":20876,"hostname":"Pruk","msg":"Loaded 0 AutoRun events."}
+{"level":30,"time":1686569492159,"pid":20876,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1686569492271,"pid":20876,"hostname":"Pruk","msg":"Client 19 Commands Loaded!"}
+{"level":30,"time":1686569492297,"pid":20876,"hostname":"Pruk","msg":"Player Events Loaded!"}
+{"level":30,"time":1686569492311,"pid":20876,"hostname":"Pruk","msg":"Track Events Loaded!"}
+{"level":30,"time":1686569493069,"pid":20876,"hostname":"Pruk","msg":"31 Interactions Loaded!"}
+{"level":30,"time":1686569494291,"pid":20876,"hostname":"Pruk","msg":"Shard 0 has been spawn!"}
+{"level":30,"time":1686569494315,"pid":20876,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1686569494316,"pid":20876,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1686569494324,"pid":20876,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.675s"}
+{"level":30,"time":1686569494861,"pid":20876,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1686569494879,"pid":20876,"hostname":"Pruk","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1686569821078,"pid":23944,"hostname":"Pruk","msg":"Launched Cluster 0"}
+{"level":30,"time":1686569822068,"pid":21916,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1686569822579,"pid":21916,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1686569822580,"pid":21916,"hostname":"Pruk","msg":"Loaded 0 AutoRun events."}
+{"level":30,"time":1686569822608,"pid":21916,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1686569822689,"pid":21916,"hostname":"Pruk","msg":"Client 19 Commands Loaded!"}
+{"level":30,"time":1686569822704,"pid":21916,"hostname":"Pruk","msg":"Player Events Loaded!"}
+{"level":30,"time":1686569822711,"pid":21916,"hostname":"Pruk","msg":"Track Events Loaded!"}
+{"level":30,"time":1686569823281,"pid":21916,"hostname":"Pruk","msg":"31 Interactions Loaded!"}
+{"level":30,"time":1686569824567,"pid":21916,"hostname":"Pruk","msg":"Shard 0 has been spawn!"}
+{"level":30,"time":1686569824598,"pid":21916,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1686569824599,"pid":21916,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1686569824607,"pid":21916,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.593s"}
+{"level":30,"time":1686569825175,"pid":21916,"hostname":"Pruk","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1686569825227,"pid":21916,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1686570194690,"pid":4960,"hostname":"Pruk","msg":"Launched Cluster 0"}
+{"level":30,"time":1686570195724,"pid":7388,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1686570196428,"pid":7388,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1686570196430,"pid":7388,"hostname":"Pruk","msg":"Loaded 0 AutoRun events."}
+{"level":30,"time":1686570196476,"pid":7388,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1686570196659,"pid":7388,"hostname":"Pruk","msg":"Client 19 Commands Loaded!"}
+{"level":30,"time":1686570196682,"pid":7388,"hostname":"Pruk","msg":"Player Events Loaded!"}
+{"level":30,"time":1686570196697,"pid":7388,"hostname":"Pruk","msg":"Track Events Loaded!"}
+{"level":30,"time":1686570197389,"pid":7388,"hostname":"Pruk","msg":"31 Interactions Loaded!"}
+{"level":30,"time":1686570198998,"pid":7388,"hostname":"Pruk","msg":"Shard 0 has been spawn!"}
+{"level":30,"time":1686570199027,"pid":7388,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1686570199028,"pid":7388,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1686570199036,"pid":7388,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 3.376s"}
+{"level":30,"time":1686570199488,"pid":7388,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1686570199594,"pid":7388,"hostname":"Pruk","msg":"Lavalink [For Elysia] connected."}

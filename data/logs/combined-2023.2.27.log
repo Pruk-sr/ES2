@@ -1,0 +1,378 @@
+{"level":30,"time":1679919164348,"pid":70,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[CLIENT] 1 shard(s) spawned."}
+{"level":30,"time":1679919169218,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1679919169879,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 4 AutoRun events."}
+{"level":30,"time":1679919169924,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1679919170244,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 75 Commands Loaded!"}
+{"level":30,"time":1679919170307,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1679919170359,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1679919171248,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1679919171451,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1679919171455,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":50,"time":1679919171568,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1679919171579,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":30,"time":1679919171616,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1679919171952,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1679919173737,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":50,"time":1679919176587,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1679919176589,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1679919181592,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1679919181593,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1679919186595,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1679919186596,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1679919191599,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1679919191600,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":50,"time":1679919196604,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Error Caught, Error: connect ECONNREFUSED 78.108.218.114:25203"}
+{"level":50,"time":1679919196606,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Closed, Code 1006, Reason "}
+{"level":40,"time":1679919196606,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[LAVALINK] | For Elysia: Disconnected"}
+{"level":30,"time":1679919560388,"pid":70,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[CLIENT] 1 shard(s) spawned."}
+{"level":30,"time":1679919563625,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1679919564225,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 4 AutoRun events."}
+{"level":30,"time":1679919564296,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1679919564487,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 75 Commands Loaded!"}
+{"level":30,"time":1679919564500,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1679919564508,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1679919564828,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1679919565443,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1679919565462,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1679919565465,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1679919565793,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1679919566109,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1679919567513,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1679928908533,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1679942410316,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1679951163773,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1679955993075,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1679961150663,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1679965280816,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1679970626441,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1679975243478,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1679975793318,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1679981384143,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1679987687938,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1679996863113,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680009022350,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1680011005161,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680013134495,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680014040639,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680021787666,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680026062702,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680029735120,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680031058967,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680036797050,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680045710723,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680054559116,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680059352647,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680070190298,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680080930138,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680081688069,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1680084156308,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680086101911,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680096294280,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680098009970,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680102322426,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680109480600,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680111126600,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680113294566,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680119380214,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680122390706,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680129457056,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680141593124,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680150277489,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680153662306,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680165880203,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680170973225,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680171069921,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1680172385508,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680184002556,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680193468423,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680202461548,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1680202475663,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1680203050166,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680212625877,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680221323033,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680232383009,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680233535340,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1680239691534,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680244266070,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680248168945,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680258505130,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680265956348,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680272335249,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680274239360,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1680284024765,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680289930154,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680298220044,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680306965147,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680313288184,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680315323534,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680322330175,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680323588756,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680331627073,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680332585151,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680336950735,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680350835376,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680361419318,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1680361881320,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680365142245,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680365903198,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1680366092070,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680368778837,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680379108713,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680393370563,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680398682451,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680406641023,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680410830956,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680421263896,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680431441909,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680441344463,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680450917831,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680462357544,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680466174992,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680468662935,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680471588097,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680482821799,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680485634922,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680489685521,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680500079766,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680503958416,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680511242334,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680516726860,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680521208210,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680534327203,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680538730206,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680549461359,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680561810214,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680566019755,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680568549294,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":50,"time":1680575108388,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1680575183353,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1680575193366,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1680575203372,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1680575228546,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1680575258354,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1680575288280,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1680575350065,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1680575360072,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1680575378371,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1680575408477,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":30,"time":1680580533028,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680587746913,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680597046629,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680610034833,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680623985937,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680626336160,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680629678705,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680634385481,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680638677598,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680640623858,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680642537394,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680643077453,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680652520293,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680662746286,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680674421602,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680680647467,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680681834632,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680684588378,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680688832291,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680694952950,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680695959795,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680697879171,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":50,"time":1680700782182,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1680700862120,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1680700872131,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1680700882141,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":30,"time":1680702609794,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680705988936,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680718120729,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680720241115,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680722705327,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680723364119,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680728359886,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680742651203,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680754935037,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680768096281,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680775989895,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680779432502,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680785451190,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680790954702,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680799870306,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680801769358,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680814835706,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680824929955,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680829962214,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680830770028,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680835485576,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680837208861,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680850981909,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680863735376,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680870646664,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680884797057,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680895918192,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680902730095,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680904677798,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680911553957,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680912371054,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680918552389,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680925360746,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680927160565,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680929158207,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680935344238,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680947598271,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680951246434,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680957216264,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680965829838,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680976922577,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680983997896,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1680992169555,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681003529351,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681005146946,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681006241224,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681006835623,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681012719152,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681020088914,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681022775273,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681034744970,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681039764738,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681052814405,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681059108000,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681066259290,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681077378697,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":50,"time":1681085736694,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Error: Received one or more errors\n    at UnionValidator.handle (/home/container/node_modules/@sapphire/shapeshift/dist/index.js:1088:23)\n    at UnionValidator.parse (/home/container/node_modules/@sapphire/shapeshift/dist/index.js:201:88)\n    at EmbedBuilder.setTitle (/home/container/node_modules/@discordjs/builders/dist/index.js:367:20)\n    at /home/container/AutoRun/mutireddit.js:262:30\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":50,"time":1681085916726,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Error: Received one or more errors\n    at UnionValidator.handle (/home/container/node_modules/@sapphire/shapeshift/dist/index.js:1088:23)\n    at UnionValidator.parse (/home/container/node_modules/@sapphire/shapeshift/dist/index.js:201:88)\n    at EmbedBuilder.setTitle (/home/container/node_modules/@discordjs/builders/dist/index.js:367:20)\n    at /home/container/AutoRun/mutireddit.js:262:30\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":50,"time":1681086096721,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Error: Received one or more errors\n    at UnionValidator.handle (/home/container/node_modules/@sapphire/shapeshift/dist/index.js:1088:23)\n    at UnionValidator.parse (/home/container/node_modules/@sapphire/shapeshift/dist/index.js:201:88)\n    at EmbedBuilder.setTitle (/home/container/node_modules/@discordjs/builders/dist/index.js:367:20)\n    at /home/container/AutoRun/mutireddit.js:262:30\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":50,"time":1681086276701,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Error: Received one or more errors\n    at UnionValidator.handle (/home/container/node_modules/@sapphire/shapeshift/dist/index.js:1088:23)\n    at UnionValidator.parse (/home/container/node_modules/@sapphire/shapeshift/dist/index.js:201:88)\n    at EmbedBuilder.setTitle (/home/container/node_modules/@discordjs/builders/dist/index.js:367:20)\n    at /home/container/AutoRun/mutireddit.js:262:30\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":30,"time":1681087841071,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681098646942,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681104785415,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681112283789,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":50,"time":1681112641855,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1681112671778,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1681112701853,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":30,"time":1681121730182,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681125911224,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681126950229,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681140717875,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681151137271,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681153300389,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681161742125,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681161892980,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681161934613,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1681161981073,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1681162022659,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1681162031112,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1681174636059,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681181840380,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681186049223,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681193370999,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681194568226,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681207267167,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681215772025,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681219367828,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681222079329,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681227588839,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681230194921,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681230922526,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681233061137,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681236098200,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681243534690,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681246995412,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681256685701,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681268533927,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681279069609,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681280070477,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681293157438,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681300876717,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681302945616,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681312597292,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681315634964,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681319074232,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1681319782697,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681320101386,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681327421556,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681328873680,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681334159380,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681334640547,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681336921231,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681339999176,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681343856752,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1681347760619,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681348799619,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681360667877,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681366972325,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681371985546,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681379376019,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681385535520,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681392860258,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681405950832,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681411355587,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681412937617,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681413498519,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681419947187,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681430107227,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681430757453,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681439141227,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1681445034092,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681450127394,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681459378551,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681463046462,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681465545904,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681467179530,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681471925404,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681477106421,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681488915613,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681499458691,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681505934603,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681520033194,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681527275017,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681528455996,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681535410775,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681537815798,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681547479175,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681548803282,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681553466968,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681562319770,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681567865042,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681577497700,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681585346917,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681588368753,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681601994944,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681603335287,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1681611911097,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":50,"time":1681620838901,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1681620868897,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1681620898869,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1681620958930,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1681620968937,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":50,"time":1681620988893,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"Error","message":"getaddrinfo EAI_AGAIN discord.com","stack":"Error: getaddrinfo EAI_AGAIN discord.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"discord.com"},"msg":"Unhandled Rejection: getaddrinfo EAI_AGAIN discord.com"}
+{"level":30,"time":1681622612968,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681636817873,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681639630971,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681643707803,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681644688958,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681653222818,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681664737285,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681668031873,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681674441972,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681687663894,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681689134737,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681692184640,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681696407888,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681706098847,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681712741400,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681718383588,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681726824742,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681731285396,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681736156429,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681748174164,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681752579015,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681756165886,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681761616509,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681765654930,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681767083160,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681771234703,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681772867195,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681774728515,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681784122148,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681796649955,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681802463773,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1681805544404,"pid":78,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}

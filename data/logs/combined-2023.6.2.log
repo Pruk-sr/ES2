@@ -1,0 +1,645 @@
+{"level":30,"time":1688284135123,"pid":28456,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688284364384,"pid":23792,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688284364399,"pid":23792,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688284364487,"pid":23792,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688284364487,"pid":23792,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688284364491,"pid":23792,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688284364511,"pid":23792,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688284364511,"pid":23792,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688284364528,"pid":23792,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688284365026,"pid":23792,"hostname":"Pruk","msg":"32 Interactions Loaded!"}
+{"level":30,"time":1688284366087,"pid":23792,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688284366108,"pid":23792,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688284366109,"pid":23792,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688284366111,"pid":23792,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.772s"}
+{"level":30,"time":1688284366672,"pid":23792,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688284633039,"pid":25104,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688284633055,"pid":25104,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688284633131,"pid":25104,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688284633131,"pid":25104,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688284633133,"pid":25104,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688284633153,"pid":25104,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688284633153,"pid":25104,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688284633171,"pid":25104,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688284633680,"pid":25104,"hostname":"Pruk","msg":"32 Interactions Loaded!"}
+{"level":30,"time":1688284634691,"pid":25104,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688284634712,"pid":25104,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688284634712,"pid":25104,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688284634713,"pid":25104,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.723s"}
+{"level":30,"time":1688284635216,"pid":25104,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688284803837,"pid":25104,"hostname":"Pruk","msg":"Player Created in @ Storage Room 2 / 1056606893788889168"}
+{"level":50,"time":1688284805471,"pid":25104,"hostname":"Pruk","msg":"Errored Elysia[Ego]#5215 (950169287291711508)"}
+{"level":50,"time":1688284822813,"pid":25104,"hostname":"Pruk","msg":"Errored Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688284846055,"pid":21640,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688284846069,"pid":21640,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688284846150,"pid":21640,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688284846151,"pid":21640,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688284846156,"pid":21640,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688284846189,"pid":21640,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688284846189,"pid":21640,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688284846233,"pid":21640,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688284847003,"pid":21640,"hostname":"Pruk","msg":"32 Interactions Loaded!"}
+{"level":30,"time":1688284848102,"pid":21640,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688284848132,"pid":21640,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688284848132,"pid":21640,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688284848134,"pid":21640,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.125s"}
+{"level":30,"time":1688284848545,"pid":21640,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688284872721,"pid":21640,"hostname":"Pruk","msg":"Player Created in @ Storage Room 2 / 1056606893788889168"}
+{"level":50,"time":1688284874182,"pid":21640,"hostname":"Pruk","msg":"Errored Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688284899975,"pid":21640,"hostname":"Pruk","msg":"Player Started in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688285120010,"pid":28616,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688285120031,"pid":28616,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688285120159,"pid":28616,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688285120159,"pid":28616,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688285120163,"pid":28616,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688285120191,"pid":28616,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688285120191,"pid":28616,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688285120211,"pid":28616,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688285120813,"pid":28616,"hostname":"Pruk","msg":"32 Interactions Loaded!"}
+{"level":30,"time":1688285121835,"pid":28616,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688285121864,"pid":28616,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688285121864,"pid":28616,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688285121866,"pid":28616,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.897s"}
+{"level":30,"time":1688285122452,"pid":28616,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688285145641,"pid":28616,"hostname":"Pruk","msg":"Player Created in @ Storage Room 2 / 1056606893788889168"}
+{"level":50,"time":1688285147259,"pid":28616,"hostname":"Pruk","msg":"Errored Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688285191363,"pid":27816,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688285191377,"pid":27816,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688285191462,"pid":27816,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688285191462,"pid":27816,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688285191465,"pid":27816,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688285191487,"pid":27816,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688285191487,"pid":27816,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688285191506,"pid":27816,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688285192008,"pid":27816,"hostname":"Pruk","msg":"32 Interactions Loaded!"}
+{"level":30,"time":1688285193307,"pid":27816,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688285193333,"pid":27816,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688285193333,"pid":27816,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688285193335,"pid":27816,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.014s"}
+{"level":30,"time":1688285193813,"pid":27816,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688285264672,"pid":27816,"hostname":"Pruk","msg":"Player Created in @ Storage Room 2 / 1056606893788889168"}
+{"level":50,"time":1688285266167,"pid":27816,"hostname":"Pruk","msg":"Errored Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688285280648,"pid":27816,"hostname":"Pruk","msg":"Player Destroy in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688285636491,"pid":27152,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688285636509,"pid":27152,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688285636612,"pid":27152,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688285636612,"pid":27152,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688285636615,"pid":27152,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688285636640,"pid":27152,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688285636640,"pid":27152,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688285636660,"pid":27152,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688285637331,"pid":27152,"hostname":"Pruk","msg":"32 Interactions Loaded!"}
+{"level":30,"time":1688285638778,"pid":27152,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688285638802,"pid":27152,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688285638802,"pid":27152,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688285638804,"pid":27152,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.365s"}
+{"level":30,"time":1688285639349,"pid":27152,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688285660028,"pid":27152,"hostname":"Pruk","msg":"Player Created in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688285732422,"pid":19736,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688285732437,"pid":19736,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688285732522,"pid":19736,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688285732523,"pid":19736,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688285732526,"pid":19736,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688285732551,"pid":19736,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688285732551,"pid":19736,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688285732570,"pid":19736,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688285733091,"pid":19736,"hostname":"Pruk","msg":"32 Interactions Loaded!"}
+{"level":30,"time":1688285734601,"pid":19736,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688285734625,"pid":19736,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688285734625,"pid":19736,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688285734626,"pid":19736,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.252s"}
+{"level":30,"time":1688285735141,"pid":19736,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688285792259,"pid":19736,"hostname":"Pruk","msg":"Player Created in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688285878089,"pid":23464,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688285878110,"pid":23464,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688285878204,"pid":23464,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688285878205,"pid":23464,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688285878209,"pid":23464,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688285878234,"pid":23464,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688285878234,"pid":23464,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688285878256,"pid":23464,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688285878839,"pid":23464,"hostname":"Pruk","msg":"32 Interactions Loaded!"}
+{"level":30,"time":1688285879835,"pid":23464,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688285879858,"pid":23464,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688285879858,"pid":23464,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688285879860,"pid":23464,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.87s"}
+{"level":30,"time":1688285880686,"pid":23464,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688285895872,"pid":23464,"hostname":"Pruk","msg":"Player Created in @ Storage Room 2 / 1056606893788889168"}
+{"level":50,"time":1688285922095,"pid":23464,"hostname":"Pruk","msg":"Errored Elysia[Ego]#5215 (950169287291711508)"}
+{"level":50,"time":1688285930104,"pid":23464,"hostname":"Pruk","msg":"Errored Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688286026725,"pid":23032,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688286026742,"pid":23032,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688286026823,"pid":23032,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688286026823,"pid":23032,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688286026826,"pid":23032,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688286026849,"pid":23032,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688286026849,"pid":23032,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688286026868,"pid":23032,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688286027401,"pid":23032,"hostname":"Pruk","msg":"32 Interactions Loaded!"}
+{"level":30,"time":1688286028852,"pid":23032,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688286028875,"pid":23032,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688286028875,"pid":23032,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688286028876,"pid":23032,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.199s"}
+{"level":30,"time":1688286029383,"pid":23032,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688286063273,"pid":23032,"hostname":"Pruk","msg":"Player Created in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688286114101,"pid":288,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688286114119,"pid":288,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688286114210,"pid":288,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688286114210,"pid":288,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688286114214,"pid":288,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688286114235,"pid":288,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688286114235,"pid":288,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688286114254,"pid":288,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688286114812,"pid":288,"hostname":"Pruk","msg":"32 Interactions Loaded!"}
+{"level":30,"time":1688286115707,"pid":288,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688286115731,"pid":288,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688286115731,"pid":288,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688286115733,"pid":288,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.677s"}
+{"level":30,"time":1688286116295,"pid":288,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688286128347,"pid":288,"hostname":"Pruk","msg":"Player Created in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688286205084,"pid":288,"hostname":"Pruk","msg":"Player Destroy in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688288510535,"pid":25524,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688288510555,"pid":25524,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688288510646,"pid":25524,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688288510647,"pid":25524,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688288510650,"pid":25524,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688288510675,"pid":25524,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688288510675,"pid":25524,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688288510693,"pid":25524,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688288511337,"pid":25524,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688288512911,"pid":25524,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688288512940,"pid":25524,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688288512940,"pid":25524,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688288512942,"pid":25524,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.466s"}
+{"level":30,"time":1688288513764,"pid":25524,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":50,"time":1688288588237,"pid":25524,"hostname":"Pruk","err":{"type":"TypeError","message":"interaction.deferReply is not a function","stack":"TypeError: interaction.deferReply is not a function\n    at Object.run (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:27:27)\n    at module.exports (C:\\Users\\a0847\\Desktop\\Elysia\\events\\guild\\interactionCreate.js:88:30)\n    at Client.emit (node:events:525:35)\n    at InteractionCreateAction.handle (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\actions\\InteractionCreate.js:97:12)\n    at module.exports [as INTERACTION_CREATE] (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\INTERACTION_CREATE.js:4:36)\n    at WebSocketManager.handlePacket (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:354:31)\n    at WebSocketManager.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:238:12)\n    at WebSocketManager.emit (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.js:282:31)\n    at WebSocketShard.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\@discordjs\\ws\\dist\\index.js:1103:51)\n    at WebSocketShard.emit (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.js:282:31)"},"msg":"Unhandled Rejection: interaction.deferReply is not a function"}
+{"level":30,"time":1688288663980,"pid":19344,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688288664001,"pid":19344,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688288664082,"pid":19344,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688288664082,"pid":19344,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688288664086,"pid":19344,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688288664112,"pid":19344,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688288664112,"pid":19344,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688288664135,"pid":19344,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688288664657,"pid":19344,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688288665847,"pid":19344,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688288665873,"pid":19344,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688288665873,"pid":19344,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688288665875,"pid":19344,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.951s"}
+{"level":30,"time":1688288666362,"pid":19344,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":50,"time":1688288677364,"pid":19344,"hostname":"Pruk","err":{"type":"TypeError","message":"interaction.reply is not a function","stack":"TypeError: interaction.reply is not a function\n    at Object.run (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:27:27)\n    at module.exports (C:\\Users\\a0847\\Desktop\\Elysia\\events\\guild\\interactionCreate.js:88:30)\n    at Client.emit (node:events:525:35)\n    at InteractionCreateAction.handle (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\actions\\InteractionCreate.js:97:12)\n    at module.exports [as INTERACTION_CREATE] (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\INTERACTION_CREATE.js:4:36)\n    at WebSocketManager.handlePacket (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:354:31)\n    at WebSocketManager.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:238:12)\n    at WebSocketManager.emit (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.js:282:31)\n    at WebSocketShard.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\@discordjs\\ws\\dist\\index.js:1103:51)\n    at WebSocketShard.emit (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.js:282:31)"},"msg":"Unhandled Rejection: interaction.reply is not a function"}
+{"level":30,"time":1688296316722,"pid":27616,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688296316754,"pid":27616,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688296316901,"pid":27616,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688296316901,"pid":27616,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688296316906,"pid":27616,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688296316947,"pid":27616,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688296316947,"pid":27616,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688296316972,"pid":27616,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688296318328,"pid":27616,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688296319513,"pid":27616,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688296319571,"pid":27616,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688296319572,"pid":27616,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688296319574,"pid":27616,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.948s"}
+{"level":30,"time":1688296320223,"pid":27616,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":50,"time":1688296339595,"pid":27616,"hostname":"Pruk","err":{"type":"ReferenceError","message":"EmbedBuilder is not defined","stack":"ReferenceError: EmbedBuilder is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:98:26)"},"msg":"Unhandled Rejection: EmbedBuilder is not defined"}
+{"level":50,"time":1688296344603,"pid":27616,"hostname":"Pruk","err":{"type":"ReferenceError","message":"EmbedBuilder is not defined","stack":"ReferenceError: EmbedBuilder is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:98:26)"},"msg":"Unhandled Rejection: EmbedBuilder is not defined"}
+{"level":50,"time":1688296349615,"pid":27616,"hostname":"Pruk","err":{"type":"ReferenceError","message":"EmbedBuilder is not defined","stack":"ReferenceError: EmbedBuilder is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:98:26)"},"msg":"Unhandled Rejection: EmbedBuilder is not defined"}
+{"level":50,"time":1688296354623,"pid":27616,"hostname":"Pruk","err":{"type":"ReferenceError","message":"EmbedBuilder is not defined","stack":"ReferenceError: EmbedBuilder is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:98:26)"},"msg":"Unhandled Rejection: EmbedBuilder is not defined"}
+{"level":50,"time":1688296359630,"pid":27616,"hostname":"Pruk","err":{"type":"ReferenceError","message":"EmbedBuilder is not defined","stack":"ReferenceError: EmbedBuilder is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:98:26)"},"msg":"Unhandled Rejection: EmbedBuilder is not defined"}
+{"level":50,"time":1688296364633,"pid":27616,"hostname":"Pruk","err":{"type":"ReferenceError","message":"EmbedBuilder is not defined","stack":"ReferenceError: EmbedBuilder is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:98:26)"},"msg":"Unhandled Rejection: EmbedBuilder is not defined"}
+{"level":50,"time":1688296369638,"pid":27616,"hostname":"Pruk","err":{"type":"ReferenceError","message":"EmbedBuilder is not defined","stack":"ReferenceError: EmbedBuilder is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:98:26)"},"msg":"Unhandled Rejection: EmbedBuilder is not defined"}
+{"level":30,"time":1688296426475,"pid":3440,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688296426502,"pid":3440,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688296426650,"pid":3440,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688296426651,"pid":3440,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688296426656,"pid":3440,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688296426691,"pid":3440,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688296426691,"pid":3440,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688296426718,"pid":3440,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688296427463,"pid":3440,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688296428368,"pid":3440,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688296428406,"pid":3440,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688296428406,"pid":3440,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688296428410,"pid":3440,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.014s"}
+{"level":30,"time":1688296428994,"pid":3440,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":50,"time":1688296433423,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296438427,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296443429,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296448437,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296453447,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296458458,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296463466,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296468471,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296473478,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296478486,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296483490,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296488493,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296493495,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296498496,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296503510,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296508515,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":50,"time":1688296513526,"pid":3440,"hostname":"Pruk","err":{"type":"ReferenceError","message":"ms is not defined","stack":"ReferenceError: ms is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:36)"},"msg":"Unhandled Rejection: ms is not defined"}
+{"level":30,"time":1688296563757,"pid":5720,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688296563778,"pid":5720,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688296563879,"pid":5720,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688296563879,"pid":5720,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688296563882,"pid":5720,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688296563915,"pid":5720,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688296563915,"pid":5720,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688296563936,"pid":5720,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688296564586,"pid":5720,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688296565824,"pid":5720,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688296565854,"pid":5720,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688296565854,"pid":5720,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688296565856,"pid":5720,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.152s"}
+{"level":30,"time":1688296566505,"pid":5720,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688297107032,"pid":19284,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688297107049,"pid":19284,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688297107130,"pid":19284,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688297107130,"pid":19284,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688297107133,"pid":19284,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688297107155,"pid":19284,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688297107155,"pid":19284,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688297107173,"pid":19284,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688297107693,"pid":19284,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688297108967,"pid":19284,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688297108995,"pid":19284,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688297108995,"pid":19284,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688297108997,"pid":19284,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.013s"}
+{"level":30,"time":1688297109495,"pid":19284,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":50,"time":1688297119010,"pid":19284,"hostname":"Pruk","err":{"type":"ReferenceError","message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:263\n    at Array.map (<anonymous>)\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:101:81)"},"msg":"Unhandled Rejection: moment is not defined"}
+{"level":30,"time":1688297218842,"pid":19284,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688297218896,"pid":19284,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688297219059,"pid":19284,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688297219060,"pid":19284,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688297219066,"pid":19284,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688297219147,"pid":19284,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688297219148,"pid":19284,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688297219200,"pid":19284,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688297219930,"pid":19284,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688297221196,"pid":19284,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688297221227,"pid":19284,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688297221228,"pid":19284,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688297221234,"pid":19284,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.434s"}
+{"level":30,"time":1688297221700,"pid":19284,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688298920112,"pid":22344,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688298920194,"pid":22344,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688298920194,"pid":22344,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688298920200,"pid":22344,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688298920221,"pid":22344,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688298920221,"pid":22344,"hostname":"Pruk","msg":"Booting client..."}
+{"level":50,"time":1688298920236,"pid":22344,"hostname":"Pruk","err":{"type":"SyntaxError","message":"Cannot use import statement outside a module","stack":"C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:7\nimport * as e from 'express';\n^^^^^^\n\nSyntaxError: Cannot use import statement outside a module\n    at internalCompileFunction (node:internal/vm:73:18)\n    at wrapSafe (node:internal/modules/cjs/loader:1176:20)\n    at Module._compile (node:internal/modules/cjs/loader:1218:27)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Module._load (node:internal/modules/cjs/loader:958:12)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at loadcommand (C:\\Users\\a0847\\Desktop\\Elysia\\handlers\\loadEvent.js:7:25)\n    at C:\\Users\\a0847\\Desktop\\Elysia\\handlers\\loadEvent.js:12:40"},"msg":"Unhandled Rejection: Cannot use import statement outside a module"}
+{"level":30,"time":1688298920243,"pid":22344,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688298920733,"pid":22344,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688298946044,"pid":23496,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688298946091,"pid":23496,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688298946166,"pid":23496,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688298946167,"pid":23496,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688298946169,"pid":23496,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688298946189,"pid":23496,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688298946189,"pid":23496,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688298946207,"pid":23496,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688298946719,"pid":23496,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688298948035,"pid":23496,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688298948059,"pid":23496,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688298948062,"pid":23496,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688298948695,"pid":23496,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688299052809,"pid":25292,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688299052848,"pid":25292,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688299052921,"pid":25292,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688299052922,"pid":25292,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688299052924,"pid":25292,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688299052944,"pid":25292,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688299052944,"pid":25292,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688299052961,"pid":25292,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688299053413,"pid":25292,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688299054493,"pid":25292,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688299054513,"pid":25292,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688299054513,"pid":25292,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688299054984,"pid":25292,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688299138941,"pid":24008,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688299138983,"pid":24008,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688299139052,"pid":24008,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688299139052,"pid":24008,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688299139055,"pid":24008,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688299139075,"pid":24008,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688299139075,"pid":24008,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688299139092,"pid":24008,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688299139527,"pid":24008,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688299140610,"pid":24008,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688299140630,"pid":24008,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688299140630,"pid":24008,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688299141170,"pid":24008,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688299261371,"pid":26836,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688299261414,"pid":26836,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688299261489,"pid":26836,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688299261490,"pid":26836,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688299261493,"pid":26836,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688299261513,"pid":26836,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688299261514,"pid":26836,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688299261531,"pid":26836,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688299261990,"pid":26836,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688299263727,"pid":26836,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688299263748,"pid":26836,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688299263748,"pid":26836,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688299264323,"pid":26836,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688299333953,"pid":12476,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688299333995,"pid":12476,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688299334069,"pid":12476,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688299334070,"pid":12476,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688299334072,"pid":12476,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688299334091,"pid":12476,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688299334091,"pid":12476,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688299334109,"pid":12476,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688299334534,"pid":12476,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688299335778,"pid":12476,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688299335799,"pid":12476,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688299335799,"pid":12476,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":40,"time":1688299335801,"pid":12476,"hostname":"Pruk","msg":"Warned Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688299336248,"pid":12476,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":50,"time":1688299424554,"pid":12476,"hostname":"Pruk","err":{"type":"ReferenceError","message":"Status is not defined","stack":"ReferenceError: Status is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:65:46)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)"},"msg":"Unhandled Rejection: Status is not defined"}
+{"level":50,"time":1688299429564,"pid":12476,"hostname":"Pruk","err":{"type":"ReferenceError","message":"Status is not defined","stack":"ReferenceError: Status is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:65:46)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)"},"msg":"Unhandled Rejection: Status is not defined"}
+{"level":50,"time":1688299434567,"pid":12476,"hostname":"Pruk","err":{"type":"ReferenceError","message":"Status is not defined","stack":"ReferenceError: Status is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:65:46)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)"},"msg":"Unhandled Rejection: Status is not defined"}
+{"level":30,"time":1688299472297,"pid":28528,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688299472435,"pid":28528,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688299472529,"pid":28528,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688299472529,"pid":28528,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688299472534,"pid":28528,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688299472582,"pid":28528,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688299472582,"pid":28528,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688299472618,"pid":28528,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688299473364,"pid":28528,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688299474633,"pid":28528,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688299474657,"pid":28528,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688299474657,"pid":28528,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":40,"time":1688299474661,"pid":28528,"hostname":"Pruk","msg":"Warned Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688299475099,"pid":28528,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":50,"time":1688299514018,"pid":28528,"hostname":"Pruk","err":{"type":"ReferenceError","message":"Status is not defined","stack":"ReferenceError: Status is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:65:46)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)"},"msg":"Unhandled Rejection: Status is not defined"}
+{"level":50,"time":1688299519024,"pid":28528,"hostname":"Pruk","err":{"type":"ReferenceError","message":"Status is not defined","stack":"ReferenceError: Status is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:65:46)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)"},"msg":"Unhandled Rejection: Status is not defined"}
+{"level":50,"time":1688299524024,"pid":28528,"hostname":"Pruk","err":{"type":"ReferenceError","message":"Status is not defined","stack":"ReferenceError: Status is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:65:46)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)"},"msg":"Unhandled Rejection: Status is not defined"}
+{"level":50,"time":1688299529037,"pid":28528,"hostname":"Pruk","err":{"type":"ReferenceError","message":"Status is not defined","stack":"ReferenceError: Status is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:65:46)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)"},"msg":"Unhandled Rejection: Status is not defined"}
+{"level":50,"time":1688299534052,"pid":28528,"hostname":"Pruk","err":{"type":"ReferenceError","message":"Status is not defined","stack":"ReferenceError: Status is not defined\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:65:46)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)"},"msg":"Unhandled Rejection: Status is not defined"}
+{"level":30,"time":1688299752917,"pid":23700,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688299752973,"pid":23700,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688299753059,"pid":23700,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688299753059,"pid":23700,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688299753062,"pid":23700,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688299753086,"pid":23700,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688299753087,"pid":23700,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688299753105,"pid":23700,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688299753671,"pid":23700,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688299755254,"pid":23700,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688299755315,"pid":23700,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688299755316,"pid":23700,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":40,"time":1688299755318,"pid":23700,"hostname":"Pruk","msg":"Warned Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688299755967,"pid":23700,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":50,"time":1688299773195,"pid":23700,"hostname":"Pruk","err":{"type":"TypeError","message":"Status.find is not a function","stack":"TypeError: Status.find is not a function\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:67:59)"},"msg":"Unhandled Rejection: Status.find is not a function"}
+{"level":50,"time":1688299778197,"pid":23700,"hostname":"Pruk","err":{"type":"TypeError","message":"Status.find is not a function","stack":"TypeError: Status.find is not a function\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:67:59)"},"msg":"Unhandled Rejection: Status.find is not a function"}
+{"level":50,"time":1688299783201,"pid":23700,"hostname":"Pruk","err":{"type":"TypeError","message":"Status.find is not a function","stack":"TypeError: Status.find is not a function\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:67:59)"},"msg":"Unhandled Rejection: Status.find is not a function"}
+{"level":50,"time":1688299788202,"pid":23700,"hostname":"Pruk","err":{"type":"TypeError","message":"Status.find is not a function","stack":"TypeError: Status.find is not a function\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:67:59)"},"msg":"Unhandled Rejection: Status.find is not a function"}
+{"level":50,"time":1688299793209,"pid":23700,"hostname":"Pruk","err":{"type":"TypeError","message":"Status.find is not a function","stack":"TypeError: Status.find is not a function\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:67:59)"},"msg":"Unhandled Rejection: Status.find is not a function"}
+{"level":30,"time":1688299852857,"pid":21956,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688299852896,"pid":21956,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688299852965,"pid":21956,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688299852965,"pid":21956,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688299852968,"pid":21956,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688299852987,"pid":21956,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688299852987,"pid":21956,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688299853004,"pid":21956,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688299853440,"pid":21956,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688299854665,"pid":21956,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688299854686,"pid":21956,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688299854686,"pid":21956,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":40,"time":1688299854688,"pid":21956,"hostname":"Pruk","msg":"Warned Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688299855157,"pid":21956,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":50,"time":1688299880047,"pid":21956,"hostname":"Pruk","err":{"type":"TypeError","message":"SetupChannel.forEach is not a function","stack":"TypeError: SetupChannel.forEach is not a function\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:82:40)"},"msg":"Unhandled Rejection: SetupChannel.forEach is not a function"}
+{"level":50,"time":1688299885055,"pid":21956,"hostname":"Pruk","err":{"type":"TypeError","message":"SetupChannel.forEach is not a function","stack":"TypeError: SetupChannel.forEach is not a function\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:82:40)"},"msg":"Unhandled Rejection: SetupChannel.forEach is not a function"}
+{"level":50,"time":1688299890065,"pid":21956,"hostname":"Pruk","err":{"type":"TypeError","message":"SetupChannel.forEach is not a function","stack":"TypeError: SetupChannel.forEach is not a function\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Utils\\Info.js:82:40)"},"msg":"Unhandled Rejection: SetupChannel.forEach is not a function"}
+{"level":30,"time":1688299949503,"pid":9872,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688299949557,"pid":9872,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688299949657,"pid":9872,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688299949657,"pid":9872,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688299949662,"pid":9872,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688299949690,"pid":9872,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688299949690,"pid":9872,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688299949713,"pid":9872,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688299950347,"pid":9872,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688299951619,"pid":9872,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688299951650,"pid":9872,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688299951650,"pid":9872,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":40,"time":1688299951651,"pid":9872,"hostname":"Pruk","msg":"Warned Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688299952161,"pid":9872,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688300705415,"pid":24652,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688300705469,"pid":24652,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688300705572,"pid":24652,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688300705572,"pid":24652,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688300705576,"pid":24652,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688300705607,"pid":24652,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688300705607,"pid":24652,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688300705628,"pid":24652,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688300705629,"pid":24652,"hostname":"Pruk","msg":"0 total channels"}
+{"level":30,"time":1688300705629,"pid":24652,"hostname":"Pruk","msg":"0 total users"}
+{"level":30,"time":1688300705629,"pid":24652,"hostname":"Pruk","msg":"0 total shards"}
+{"level":30,"time":1688300706315,"pid":24652,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688300707682,"pid":24652,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688300707714,"pid":24652,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688300707714,"pid":24652,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":50,"time":1688300707716,"pid":24652,"hostname":"Pruk","msg":"Errored Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688300708253,"pid":24652,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688300780890,"pid":10112,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688300780940,"pid":10112,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688300781015,"pid":10112,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688300781016,"pid":10112,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688300781019,"pid":10112,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688300781039,"pid":10112,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688300781039,"pid":10112,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688300781058,"pid":10112,"hostname":"Pruk","msg":"0 total guilds"}
+{"level":30,"time":1688300781059,"pid":10112,"hostname":"Pruk","msg":"0 total channels"}
+{"level":30,"time":1688300781059,"pid":10112,"hostname":"Pruk","msg":"0 total users"}
+{"level":30,"time":1688300781059,"pid":10112,"hostname":"Pruk","msg":"0 total shards"}
+{"level":30,"time":1688300781568,"pid":10112,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688300782737,"pid":10112,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688300782779,"pid":10112,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688300782780,"pid":10112,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":50,"time":1688300782782,"pid":10112,"hostname":"Pruk","msg":"Errored Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688300783295,"pid":10112,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688300810213,"pid":25320,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688300810256,"pid":25320,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688300810355,"pid":25320,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688300810355,"pid":25320,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688300810358,"pid":25320,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688300810385,"pid":25320,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688300810385,"pid":25320,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688300810943,"pid":25320,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688300812042,"pid":25320,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688300812069,"pid":25320,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688300812070,"pid":25320,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":50,"time":1688300812072,"pid":25320,"hostname":"Pruk","msg":"Errored Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688300812514,"pid":25320,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688300852983,"pid":14448,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688300853025,"pid":14448,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688300853097,"pid":14448,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688300853097,"pid":14448,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688300853100,"pid":14448,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688300853122,"pid":14448,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688300853122,"pid":14448,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688300853673,"pid":14448,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688300855072,"pid":14448,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688300855093,"pid":14448,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688300855094,"pid":14448,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":50,"time":1688300855096,"pid":14448,"hostname":"Pruk","err":{"type":"Error","message":"client is not defined","stack":"ReferenceError: client is not defined\n    at eval (eval at _eval (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\Client.js:482:12), <anonymous>:1:1)\n    at Client._eval (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\Client.js:482:12)\n    at ClusterClient._eval (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord-hybrid-sharding\\dist\\Core\\ClusterClient.js:183:38)\n    at ClusterClientHandler.handleMessage (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord-hybrid-sharding\\dist\\Structures\\IPCHandler.js:111:48)\n    at ClusterClient._handleMessage (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord-hybrid-sharding\\dist\\Core\\ClusterClient.js:164:48)\n    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)\n    at exports.emitMessage (node:internal/per_context/messageport:23:28)","name":"ReferenceError"},"msg":"client is not defined"}
+{"level":50,"time":1688300855097,"pid":14448,"hostname":"Pruk","msg":"Errored Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688300855654,"pid":14448,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688300895662,"pid":26308,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688300895707,"pid":26308,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688300895783,"pid":26308,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688300895783,"pid":26308,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688300895785,"pid":26308,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688300895805,"pid":26308,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688300895805,"pid":26308,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688300896328,"pid":26308,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688300897401,"pid":26308,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688300897424,"pid":26308,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688300897425,"pid":26308,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688300897427,"pid":26308,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.806s"}
+{"level":30,"time":1688300897924,"pid":26308,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688301158566,"pid":11000,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688301158640,"pid":11000,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688301158801,"pid":11000,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688301158801,"pid":11000,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688301158806,"pid":11000,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688301158843,"pid":11000,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688301158843,"pid":11000,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688301159676,"pid":11000,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688301160827,"pid":11000,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688301160871,"pid":11000,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688301160872,"pid":11000,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688301160875,"pid":11000,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.445s"}
+{"level":30,"time":1688301161813,"pid":11000,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688302552101,"pid":2304,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688302552141,"pid":2304,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688302552212,"pid":2304,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688302552212,"pid":2304,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688302552215,"pid":2304,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688302552234,"pid":2304,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688302552234,"pid":2304,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688302552763,"pid":2304,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688302553880,"pid":2304,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688302553901,"pid":2304,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688302553902,"pid":2304,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":50,"time":1688302553905,"pid":2304,"hostname":"Pruk","err":{"type":"Error","message":"Cannot read properties of undefined (reading 'ping')","stack":"TypeError: Cannot read properties of undefined (reading 'ping')\n    at eval (eval at _eval (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\Client.js:482:12), <anonymous>:1:42)\n    at eval (eval at _eval (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\Client.js:482:12), <anonymous>:1:63)\n    at Client._eval (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\Client.js:482:12)\n    at ClusterClient._eval (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord-hybrid-sharding\\dist\\Core\\ClusterClient.js:183:38)\n    at ClusterClientHandler.handleMessage (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord-hybrid-sharding\\dist\\Structures\\IPCHandler.js:111:48)\n    at ClusterClient._handleMessage (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord-hybrid-sharding\\dist\\Core\\ClusterClient.js:164:48)\n    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)\n    at exports.emitMessage (node:internal/per_context/messageport:23:28)","name":"TypeError"},"msg":"Cannot read properties of undefined (reading 'ping')"}
+{"level":50,"time":1688302553906,"pid":2304,"hostname":"Pruk","msg":"Errored Elysia[Ego]#5215 (950169287291711508)"}
+{"level":30,"time":1688302554380,"pid":2304,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688302625113,"pid":24720,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688302625153,"pid":24720,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688302625224,"pid":24720,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688302625225,"pid":24720,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688302625227,"pid":24720,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688302625247,"pid":24720,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688302625247,"pid":24720,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688302625732,"pid":24720,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688302626891,"pid":24720,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688302626912,"pid":24720,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688302626913,"pid":24720,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688302626915,"pid":24720,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.844s"}
+{"level":30,"time":1688302627374,"pid":24720,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":50,"time":1688302636935,"pid":24720,"hostname":"Pruk","err":{"type":"TypeError","message":"Expected a finite number, got string: 0161","stack":"TypeError: Expected a finite number, got string: 0161\n    at module.exports (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\pretty-bytes\\index.js:70:9)\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:144:48)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at process.processTimers (node:internal/timers:509:9)"},"msg":"Unhandled Rejection: Expected a finite number, got string: 0161"}
+{"level":50,"time":1688302646936,"pid":24720,"hostname":"Pruk","err":{"type":"TypeError","message":"Expected a finite number, got string: 0161","stack":"TypeError: Expected a finite number, got string: 0161\n    at module.exports (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\pretty-bytes\\index.js:70:9)\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:144:48)"},"msg":"Unhandled Rejection: Expected a finite number, got string: 0161"}
+{"level":50,"time":1688302656940,"pid":24720,"hostname":"Pruk","err":{"type":"TypeError","message":"Expected a finite number, got string: 0161","stack":"TypeError: Expected a finite number, got string: 0161\n    at module.exports (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\pretty-bytes\\index.js:70:9)\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:144:48)"},"msg":"Unhandled Rejection: Expected a finite number, got string: 0161"}
+{"level":50,"time":1688302666942,"pid":24720,"hostname":"Pruk","err":{"type":"TypeError","message":"Expected a finite number, got string: 0161","stack":"TypeError: Expected a finite number, got string: 0161\n    at module.exports (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\pretty-bytes\\index.js:70:9)\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:144:48)"},"msg":"Unhandled Rejection: Expected a finite number, got string: 0161"}
+{"level":50,"time":1688302676942,"pid":24720,"hostname":"Pruk","err":{"type":"TypeError","message":"Expected a finite number, got string: 0161","stack":"TypeError: Expected a finite number, got string: 0161\n    at module.exports (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\pretty-bytes\\index.js:70:9)\n    at Timeout._onTimeout (C:\\Users\\a0847\\Desktop\\Elysia\\events\\client\\ready.js:144:48)"},"msg":"Unhandled Rejection: Expected a finite number, got string: 0161"}
+{"level":30,"time":1688302705277,"pid":9192,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688302705319,"pid":9192,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688302705393,"pid":9192,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688302705393,"pid":9192,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688302705396,"pid":9192,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688302705416,"pid":9192,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688302705416,"pid":9192,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688302705873,"pid":9192,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688302707177,"pid":9192,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688302707199,"pid":9192,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688302707200,"pid":9192,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688302707203,"pid":9192,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.97s"}
+{"level":30,"time":1688302707917,"pid":9192,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688303039554,"pid":25296,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688303039598,"pid":25296,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688303039735,"pid":25296,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688303039735,"pid":25296,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688303039738,"pid":25296,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688303039758,"pid":25296,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688303039758,"pid":25296,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688303040266,"pid":25296,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688303041685,"pid":25296,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688303041719,"pid":25296,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688303041720,"pid":25296,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688303041726,"pid":25296,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.215s"}
+{"level":30,"time":1688303042217,"pid":25296,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688303291975,"pid":9780,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688303292034,"pid":9780,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688303292174,"pid":9780,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688303292175,"pid":9780,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688303292179,"pid":9780,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688303292208,"pid":9780,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688303292208,"pid":9780,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688303292681,"pid":9780,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688303294263,"pid":9780,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688303294284,"pid":9780,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688303294285,"pid":9780,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688303294286,"pid":9780,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.369s"}
+{"level":30,"time":1688303294771,"pid":9780,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688303406489,"pid":15912,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688303406590,"pid":15912,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688303406775,"pid":15912,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688303406775,"pid":15912,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688303406786,"pid":15912,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688303406836,"pid":15912,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688303406836,"pid":15912,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688303409309,"pid":15912,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688303410125,"pid":15912,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688303410173,"pid":15912,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688303410174,"pid":15912,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688303410201,"pid":15912,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 3.836s"}
+{"level":30,"time":1688303410608,"pid":15912,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688303445519,"pid":15912,"hostname":"Pruk","msg":"Player Created in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688303904454,"pid":17624,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688303904538,"pid":17624,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688303904652,"pid":17624,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688303904652,"pid":17624,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688303904657,"pid":17624,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688303904687,"pid":17624,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688303904687,"pid":17624,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688303905505,"pid":17624,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688303906442,"pid":17624,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688303906485,"pid":17624,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688303906485,"pid":17624,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688303906520,"pid":17624,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.129s"}
+{"level":30,"time":1688303906947,"pid":17624,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688303917604,"pid":17624,"hostname":"Pruk","msg":"Player Created in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688303922300,"pid":17624,"hostname":"Pruk","msg":"Player Started in @ Storage Room 2 / 1056606893788889168"}
+{"level":50,"time":1688304206088,"pid":17624,"hostname":"Pruk","err":{"type":"TypeError","message":"interaction.deferReply is not a function","stack":"TypeError: interaction.deferReply is not a function\n    at Object.run (C:\\Users\\a0847\\Desktop\\Elysia\\commands\\slash\\Image\\Avatar.js:16:25)\n    at module.exports (C:\\Users\\a0847\\Desktop\\Elysia\\events\\guild\\interactionCreate.js:88:30)\n    at Client.emit (node:events:525:35)\n    at InteractionCreateAction.handle (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\actions\\InteractionCreate.js:97:12)\n    at module.exports [as INTERACTION_CREATE] (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\INTERACTION_CREATE.js:4:36)\n    at WebSocketManager.handlePacket (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:354:31)\n    at WebSocketManager.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:238:12)\n    at WebSocketManager.emit (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.js:282:31)\n    at WebSocketShard.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\@discordjs\\ws\\dist\\index.js:1103:51)\n    at WebSocketShard.emit (C:\\Users\\a0847\\Desktop\\Elysia\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.js:282:31)"},"msg":"Unhandled Rejection: interaction.deferReply is not a function"}
+{"level":30,"time":1688304297555,"pid":17624,"hostname":"Pruk","msg":"Player Destroy in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688304318172,"pid":24088,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688304318217,"pid":24088,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688304318288,"pid":24088,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688304318289,"pid":24088,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688304318291,"pid":24088,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688304318311,"pid":24088,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688304318311,"pid":24088,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688304322244,"pid":24088,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688304322402,"pid":24088,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688304322447,"pid":24088,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688304322448,"pid":24088,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688304322459,"pid":24088,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 4.326s"}
+{"level":30,"time":1688304322984,"pid":24088,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688304333119,"pid":24088,"hostname":"Pruk","msg":"Player Created in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688304483935,"pid":24088,"hostname":"Pruk","msg":"Player Destroy in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688304533193,"pid":24088,"hostname":"Pruk","msg":"Player Created in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688304535164,"pid":24088,"hostname":"Pruk","msg":"Player Started in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688304601857,"pid":24088,"hostname":"Pruk","msg":"Player End in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688304602127,"pid":24088,"hostname":"Pruk","msg":"Player Started in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688304958392,"pid":24088,"hostname":"Pruk","msg":"Player End in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688304958667,"pid":24088,"hostname":"Pruk","msg":"Player Started in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688305194731,"pid":24088,"hostname":"Pruk","msg":"Player End in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688305195008,"pid":24088,"hostname":"Pruk","msg":"Player Started in @ Storage Room 2 / 1056606893788889168"}
+{"level":30,"time":1688305258709,"pid":24088,"hostname":"Pruk","msg":"Player Destroy in @ Storage Room 2 / 1056606893788889168"}

@@ -1,0 +1,41 @@
+{"level":30,"time":1685101443936,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1685101445754,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1685101446968,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1685101448269,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1685101448341,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1685101448536,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1685101448550,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1685101448556,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1685101448859,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1685101454691,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1685101454720,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1685101454721,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1685101454757,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1685101455144,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1685101860882,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685108763702,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685115756145,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685123731872,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685131102377,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685141505188,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685145946202,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685154877382,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685156147920,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685163669183,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685176162089,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685187512710,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685190417137,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685198525146,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685204182546,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":40,"time":1685211670072,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Mongoose disconnected"}
+{"level":50,"time":1685211670075,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","err":{"type":"PoolClearedOnNetworkError","message":"Connection to ac-xsvh5vk-shard-00-02.0qw6x5m.mongodb.net:27017 interrupted due to server monitor timeout","stack":"PoolClearedOnNetworkError: Connection to ac-xsvh5vk-shard-00-02.0qw6x5m.mongodb.net:27017 interrupted due to server monitor timeout\n    at ConnectionPool.interruptInUseConnections (/home/container/node_modules/mongodb/lib/cmap/connection_pool.js:258:36)\n    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:245:41\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","address":"ac-xsvh5vk-shard-00-02.0qw6x5m.mongodb.net:27017"},"msg":"Unhandled Rejection: Connection to ac-xsvh5vk-shard-00-02.0qw6x5m.mongodb.net:27017 interrupted due to server monitor timeout"}
+{"level":30,"time":1685211680432,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1685211680432,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Reconnecting to database..."}
+{"level":30,"time":1685212389073,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685221258072,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685233095251,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685240218101,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685251036753,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685254926263,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685255031814,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1685259508397,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}

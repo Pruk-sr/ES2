@@ -1,0 +1,306 @@
+{"level":30,"time":1688386025645,"pid":9900,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688386025741,"pid":9900,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688386025839,"pid":9900,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688386025840,"pid":9900,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688386025843,"pid":9900,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688386025873,"pid":9900,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688386025873,"pid":9900,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688386026555,"pid":9900,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688386036227,"pid":9900,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688386036267,"pid":9900,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688386036269,"pid":9900,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688386036271,"pid":9900,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 10.69s"}
+{"level":30,"time":1688386036873,"pid":9900,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688386223993,"pid":20856,"hostname":"Pruk","msg":"[2023-6-1.19:10:23] - Initialize multi-process sharding..."}
+{"level":30,"time":1688386223994,"pid":20856,"hostname":"Pruk","msg":"[2023-6-1.19:10:23] - Checking connection to server..."}
+{"level":30,"time":1688386224006,"pid":20856,"hostname":"Pruk","msg":"[2023-6-1.19:10:24] - Creating shading manager..."}
+{"level":30,"time":1688386224008,"pid":20856,"hostname":"Pruk","msg":"[2023-6-1.19:10:24] - Create shardCreate event..."}
+{"level":30,"time":1688386224059,"pid":20856,"hostname":"Pruk","msg":"[2023-6-1.19:10:24] - Spawn shards..."}
+{"level":30,"time":1688386224059,"pid":20856,"hostname":"Pruk","msg":"[2023-6-1.19:10:24] - Successful to create multi-process sharding."}
+{"level":30,"time":1688386225231,"pid":20856,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688386225273,"pid":20856,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688386225344,"pid":20856,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688386225345,"pid":20856,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688386225347,"pid":20856,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688386225367,"pid":20856,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688386225367,"pid":20856,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688386225863,"pid":20856,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688386227286,"pid":20856,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688386227310,"pid":20856,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688386227311,"pid":20856,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688386227312,"pid":20856,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.124s"}
+{"level":30,"time":1688386227879,"pid":20856,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688386460743,"pid":24656,"hostname":"Pruk","msg":"Initialize multi-process sharding..."}
+{"level":30,"time":1688386460744,"pid":24656,"hostname":"Pruk","msg":"Checking connection to server..."}
+{"level":30,"time":1688386460756,"pid":24656,"hostname":"Pruk","msg":"Creating shading manager..."}
+{"level":30,"time":1688386460757,"pid":24656,"hostname":"Pruk","msg":"Create shardCreate event..."}
+{"level":30,"time":1688386460805,"pid":24656,"hostname":"Pruk","msg":"Spawn shards..."}
+{"level":30,"time":1688386460805,"pid":24656,"hostname":"Pruk","msg":"Successful to create multi-process sharding."}
+{"level":30,"time":1688386462035,"pid":24656,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688386462078,"pid":24656,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688386462150,"pid":24656,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688386462151,"pid":24656,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688386462153,"pid":24656,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688386462174,"pid":24656,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688386462174,"pid":24656,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688386462667,"pid":24656,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688386464021,"pid":24656,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688386464051,"pid":24656,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688386464051,"pid":24656,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688386464054,"pid":24656,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.061s"}
+{"level":30,"time":1688386464508,"pid":24656,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688386519779,"pid":2432,"hostname":"Pruk","msg":"Initialize multi-process sharding..."}
+{"level":30,"time":1688386519780,"pid":2432,"hostname":"Pruk","msg":"Checking connection to server..."}
+{"level":30,"time":1688386519790,"pid":2432,"hostname":"Pruk","msg":"Creating shading manager..."}
+{"level":30,"time":1688386519792,"pid":2432,"hostname":"Pruk","msg":"Create shardCreate event..."}
+{"level":30,"time":1688386519836,"pid":2432,"hostname":"Pruk","msg":"Spawn shards..."}
+{"level":30,"time":1688386519836,"pid":2432,"hostname":"Pruk","msg":"Successful to create multi-process sharding."}
+{"level":30,"time":1688386521061,"pid":2432,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688386521101,"pid":2432,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688386521169,"pid":2432,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688386521169,"pid":2432,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688386521172,"pid":2432,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688386521191,"pid":2432,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688386521191,"pid":2432,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688386521670,"pid":2432,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688386522628,"pid":2432,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688386522651,"pid":2432,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688386522652,"pid":2432,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688386522654,"pid":2432,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.64s"}
+{"level":30,"time":1688386523135,"pid":2432,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688386583547,"pid":9968,"hostname":"Pruk","msg":"Initialize multi-process sharding..."}
+{"level":30,"time":1688386583547,"pid":9968,"hostname":"Pruk","msg":"Checking connection to server..."}
+{"level":30,"time":1688386583551,"pid":9968,"hostname":"Pruk","msg":"Creating shading manager..."}
+{"level":30,"time":1688386583553,"pid":9968,"hostname":"Pruk","msg":"Spawn shards..."}
+{"level":30,"time":1688386583553,"pid":9968,"hostname":"Pruk","msg":"Successful to create multi-process sharding."}
+{"level":30,"time":1688386583931,"pid":9968,"hostname":"Pruk","msg":"Launched Cluster 0//1 shards//undefined clusters"}
+{"level":30,"time":1688386584702,"pid":9968,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688386584742,"pid":9968,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688386584817,"pid":9968,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688386584817,"pid":9968,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688386584819,"pid":9968,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688386584839,"pid":9968,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688386584839,"pid":9968,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688386585328,"pid":9968,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688386586570,"pid":9968,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688386586592,"pid":9968,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688386586592,"pid":9968,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688386586596,"pid":9968,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.934s"}
+{"level":30,"time":1688386587073,"pid":9968,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688386590941,"pid":9968,"hostname":"Pruk","msg":"Create shardCreate event..."}
+{"level":30,"time":1688386679853,"pid":24204,"hostname":"Pruk","msg":"Initialize multi-process sharding..."}
+{"level":30,"time":1688386679854,"pid":24204,"hostname":"Pruk","msg":"Checking connection to server..."}
+{"level":30,"time":1688386679858,"pid":24204,"hostname":"Pruk","msg":"Creating shading manager..."}
+{"level":30,"time":1688386679860,"pid":24204,"hostname":"Pruk","msg":"Spawn shards..."}
+{"level":30,"time":1688386679860,"pid":24204,"hostname":"Pruk","msg":"Successful to create multi-process sharding."}
+{"level":30,"time":1688386680266,"pid":24204,"hostname":"Pruk","msg":"Launched Cluster 0 || 1 shards class Worker {\r\n    file;\r\n    process;\r\n    workerOptions;\r\n    constructor(file, options) {\r\n        this.file = file;\r\n        this.process = null;\r\n        this.workerOptions = {};\r\n        // Custom options\r\n        if (options.clusterData)\r\n            this.workerOptions.workerData = options.clusterData;\r\n        if (options.argv)\r\n            this.workerOptions.argv = options.argv;\r\n        if (options.execArgv)\r\n            this.workerOptions.execArgv = options.execArgv;\r\n        if (options.env)\r\n            this.workerOptions.env = options.env;\r\n        if (options.eval)\r\n            this.workerOptions.eval = options.eval;\r\n        if (options.stdin)\r\n            this.workerOptions.stdin = options.stdin;\r\n        if (options.stdout)\r\n            this.workerOptions.stdout = options.stdout;\r\n        if (options.stderr)\r\n            this.workerOptions.stderr = options.stderr;\r\n        if (options.trackUnmanagedFds)\r\n            this.workerOptions.trackUnmanagedFds = options.trackUnmanagedFds;\r\n        if (options.transferList)\r\n            this.workerOptions.transferList = options.transferList;\r\n        if (options.resourceLimits)\r\n            this.workerOptions.resourceLimits = options.resourceLimits;\r\n    }\r\n    spawn() {\r\n        return (this.process = new worker_threads_1.Worker(this.file, this.workerOptions));\r\n    }\r\n    respawn() {\r\n        this.kill();\r\n        return this.spawn();\r\n    }\r\n    kill() {\r\n        this.process?.removeAllListeners();\r\n        return this.process?.terminate();\r\n    }\r\n    send(message) {\r\n        return new Promise(resolve => {\r\n            this.process?.postMessage(message);\r\n            resolve(this);\r\n        });\r\n    }\r\n}"}
+{"level":30,"time":1688386681155,"pid":24204,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688386681197,"pid":24204,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688386681266,"pid":24204,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688386681267,"pid":24204,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688386681269,"pid":24204,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688386681290,"pid":24204,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688386681290,"pid":24204,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688386681805,"pid":24204,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688386683514,"pid":24204,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688386683536,"pid":24204,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688386683537,"pid":24204,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688386683539,"pid":24204,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.435s"}
+{"level":30,"time":1688386684163,"pid":24204,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688386687280,"pid":24204,"hostname":"Pruk","msg":"Create shardCreate event..."}
+{"level":30,"time":1688386744673,"pid":26156,"hostname":"Pruk","msg":"Initialize multi-process sharding..."}
+{"level":30,"time":1688386744674,"pid":26156,"hostname":"Pruk","msg":"Checking connection to server..."}
+{"level":30,"time":1688386744682,"pid":26156,"hostname":"Pruk","msg":"Creating shading manager..."}
+{"level":30,"time":1688386744684,"pid":26156,"hostname":"Pruk","msg":"Spawn shards..."}
+{"level":30,"time":1688386744684,"pid":26156,"hostname":"Pruk","msg":"Successful to create multi-process sharding."}
+{"level":30,"time":1688386745076,"pid":26156,"hostname":"Pruk","msg":"Launched Cluster 0 || 1||0shards"}
+{"level":30,"time":1688386745903,"pid":26156,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688386745947,"pid":26156,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688386746023,"pid":26156,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688386746023,"pid":26156,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688386746026,"pid":26156,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688386746060,"pid":26156,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688386746060,"pid":26156,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688386746534,"pid":26156,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688386747649,"pid":26156,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688386747670,"pid":26156,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688386747670,"pid":26156,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688386747672,"pid":26156,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.81s"}
+{"level":30,"time":1688386748323,"pid":26156,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688386752088,"pid":26156,"hostname":"Pruk","msg":"Create shardCreate event..."}
+{"level":30,"time":1688386764687,"pid":25856,"hostname":"Pruk","msg":"Initialize multi-process sharding..."}
+{"level":30,"time":1688386764688,"pid":25856,"hostname":"Pruk","msg":"Checking connection to server..."}
+{"level":30,"time":1688386764691,"pid":25856,"hostname":"Pruk","msg":"Creating shading manager..."}
+{"level":30,"time":1688386764693,"pid":25856,"hostname":"Pruk","msg":"Spawn shards..."}
+{"level":30,"time":1688386764693,"pid":25856,"hostname":"Pruk","msg":"Successful to create multi-process sharding."}
+{"level":30,"time":1688386764696,"pid":25856,"hostname":"Pruk","msg":"Launched Cluster 0 || 2||0,1shards"}
+{"level":30,"time":1688386765536,"pid":25856,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688386765576,"pid":25856,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688386765656,"pid":25856,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688386765656,"pid":25856,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688386765658,"pid":25856,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688386765678,"pid":25856,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688386765678,"pid":25856,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688386766213,"pid":25856,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688386767374,"pid":25856,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688386772949,"pid":25856,"hostname":"Pruk","msg":"Shard 1 Ready!"}
+{"level":30,"time":1688386772970,"pid":25856,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688386772970,"pid":25856,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688386772973,"pid":25856,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 7.477s"}
+{"level":30,"time":1688386773514,"pid":25856,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688386778715,"pid":25856,"hostname":"Pruk","msg":"Create shardCreate event..."}
+{"level":30,"time":1688388566337,"pid":7760,"hostname":"Pruk","msg":"Initialize multi-process sharding..."}
+{"level":30,"time":1688388566338,"pid":7760,"hostname":"Pruk","msg":"Checking connection to server..."}
+{"level":30,"time":1688388566340,"pid":7760,"hostname":"Pruk","msg":"Creating shading manager..."}
+{"level":30,"time":1688388566342,"pid":7760,"hostname":"Pruk","msg":"Create shardCreate event..."}
+{"level":30,"time":1688388566342,"pid":7760,"hostname":"Pruk","msg":"Spawn shards..."}
+{"level":30,"time":1688388566342,"pid":7760,"hostname":"Pruk","msg":"Successful to create multi-process sharding."}
+{"level":30,"time":1688388566747,"pid":7760,"hostname":"Pruk","msg":"Launched Cluster 0 ||     1  ||    0shards    || undefined"}
+{"level":30,"time":1688388567533,"pid":7760,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688388567575,"pid":7760,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688388567686,"pid":7760,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688388567686,"pid":7760,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688388567700,"pid":7760,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688388567742,"pid":7760,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688388567742,"pid":7760,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688388568249,"pid":7760,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688388569278,"pid":7760,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688388569299,"pid":7760,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688388569300,"pid":7760,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688388569302,"pid":7760,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.816s"}
+{"level":30,"time":1688388569825,"pid":7760,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688388617354,"pid":2568,"hostname":"Pruk","msg":"Initialize multi-process sharding..."}
+{"level":30,"time":1688388617355,"pid":2568,"hostname":"Pruk","msg":"Checking connection to server..."}
+{"level":30,"time":1688388617359,"pid":2568,"hostname":"Pruk","msg":"Creating shading manager..."}
+{"level":30,"time":1688388617361,"pid":2568,"hostname":"Pruk","msg":"Create shardCreate event..."}
+{"level":30,"time":1688388617361,"pid":2568,"hostname":"Pruk","msg":"Spawn shards..."}
+{"level":30,"time":1688388617361,"pid":2568,"hostname":"Pruk","msg":"Successful to create multi-process sharding."}
+{"level":30,"time":1688388617789,"pid":2568,"hostname":"Pruk","msg":"Launched Cluster 0 ||     1  ||    0shards    || false"}
+{"level":30,"time":1688388618645,"pid":2568,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688388618694,"pid":2568,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688388618782,"pid":2568,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688388618782,"pid":2568,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688388618786,"pid":2568,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688388618810,"pid":2568,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688388618810,"pid":2568,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688388619284,"pid":2568,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688388620882,"pid":2568,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688388620904,"pid":2568,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688388620904,"pid":2568,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688388620906,"pid":2568,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.31s"}
+{"level":30,"time":1688388621445,"pid":2568,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688388678466,"pid":7164,"hostname":"Pruk","msg":"Initialize multi-process sharding..."}
+{"level":30,"time":1688388678467,"pid":7164,"hostname":"Pruk","msg":"Checking connection to server..."}
+{"level":30,"time":1688388678474,"pid":7164,"hostname":"Pruk","msg":"Creating shading manager..."}
+{"level":30,"time":1688388678476,"pid":7164,"hostname":"Pruk","msg":"Create shardCreate event..."}
+{"level":30,"time":1688388678476,"pid":7164,"hostname":"Pruk","msg":"Spawn shards..."}
+{"level":30,"time":1688388678476,"pid":7164,"hostname":"Pruk","msg":"Successful to create multi-process sharding."}
+{"level":30,"time":1688388678867,"pid":7164,"hostname":"Pruk","msg":"Launched Cluster 0 ||     1  ||    0shards"}
+{"level":30,"time":1688388679633,"pid":7164,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688388679674,"pid":7164,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688388679742,"pid":7164,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688388679742,"pid":7164,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688388679744,"pid":7164,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688388679765,"pid":7164,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688388679765,"pid":7164,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688388680249,"pid":7164,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688388681370,"pid":7164,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688388681392,"pid":7164,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688388681392,"pid":7164,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688388681395,"pid":7164,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.8s"}
+{"level":30,"time":1688388681929,"pid":7164,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688388700299,"pid":24184,"hostname":"Pruk","msg":"Initialize multi-process sharding..."}
+{"level":30,"time":1688388700300,"pid":24184,"hostname":"Pruk","msg":"Checking connection to server..."}
+{"level":30,"time":1688388700303,"pid":24184,"hostname":"Pruk","msg":"Creating shading manager..."}
+{"level":30,"time":1688388700305,"pid":24184,"hostname":"Pruk","msg":"Create shardCreate event..."}
+{"level":30,"time":1688388700305,"pid":24184,"hostname":"Pruk","msg":"Spawn shards..."}
+{"level":30,"time":1688388700305,"pid":24184,"hostname":"Pruk","msg":"Successful to create multi-process sharding."}
+{"level":30,"time":1688388700731,"pid":24184,"hostname":"Pruk","msg":"Launched Cluster 0 || 1||0shards"}
+{"level":30,"time":1688388701586,"pid":24184,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688388701699,"pid":24184,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688388702069,"pid":24184,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688388702070,"pid":24184,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688388702078,"pid":24184,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688388702123,"pid":24184,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688388702123,"pid":24184,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688388702785,"pid":24184,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688388703895,"pid":24184,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688388703934,"pid":24184,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688388703935,"pid":24184,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688388703938,"pid":24184,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 2.404s"}
+{"level":30,"time":1688388704617,"pid":24184,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1688391910996,"pid":5876,"hostname":"Pruk","msg":"Initialize multi-process sharding..."}
+{"level":30,"time":1688391910997,"pid":5876,"hostname":"Pruk","msg":"Checking connection to server..."}
+{"level":30,"time":1688391911009,"pid":5876,"hostname":"Pruk","msg":"Creating shading manager..."}
+{"level":30,"time":1688391911011,"pid":5876,"hostname":"Pruk","msg":"Create shardCreate event..."}
+{"level":30,"time":1688391911012,"pid":5876,"hostname":"Pruk","msg":"Spawn shards..."}
+{"level":30,"time":1688391911012,"pid":5876,"hostname":"Pruk","msg":"Successful to create multi-process sharding."}
+{"level":30,"time":1688391911465,"pid":5876,"hostname":"Pruk","msg":"Launched Cluster 0 || 1||0shards"}
+{"level":30,"time":1688391912875,"pid":5876,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688391912986,"pid":5876,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688391913083,"pid":5876,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688391913084,"pid":5876,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688391913087,"pid":5876,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688391913151,"pid":5876,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":50,"time":1688391913152,"pid":5876,"hostname":"Pruk","err":{"type":"Error","message":"Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js","stack":"Error: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:18\n    at Array.forEach (<anonymous>)\n    at Object.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:3)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)","code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\a0847\\Desktop\\Elysia\\login.js"]},"msg":"Uncaught Exception Monitor: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js"}
+{"level":50,"time":1688391913156,"pid":5876,"hostname":"Pruk","err":{"type":"Error","message":"Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js","stack":"Error: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:18\n    at Array.forEach (<anonymous>)\n    at Object.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:3)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)","code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\a0847\\Desktop\\Elysia\\login.js"]},"msg":"Uncaught Exception: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js"}
+{"level":30,"time":1688391913864,"pid":5876,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688391915610,"pid":5876,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688391915644,"pid":5876,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688391915734,"pid":5876,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688391915734,"pid":5876,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688391915737,"pid":5876,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688391915757,"pid":5876,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":50,"time":1688391915758,"pid":5876,"hostname":"Pruk","err":{"type":"Error","message":"Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js","stack":"Error: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:18\n    at Array.forEach (<anonymous>)\n    at Object.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:3)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)","code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\a0847\\Desktop\\Elysia\\login.js"]},"msg":"Uncaught Exception Monitor: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js"}
+{"level":50,"time":1688391915761,"pid":5876,"hostname":"Pruk","err":{"type":"Error","message":"Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js","stack":"Error: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:18\n    at Array.forEach (<anonymous>)\n    at Object.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:3)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)","code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\a0847\\Desktop\\Elysia\\login.js"]},"msg":"Uncaught Exception: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js"}
+{"level":30,"time":1688391916246,"pid":5876,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688391917525,"pid":5876,"hostname":"Pruk","level":"error","message":{}}
+{"level":30,"time":1688391918502,"pid":5876,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688391918533,"pid":5876,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688391918630,"pid":5876,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688391918630,"pid":5876,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688391918632,"pid":5876,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688391918657,"pid":5876,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":50,"time":1688391918658,"pid":5876,"hostname":"Pruk","err":{"type":"Error","message":"Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js","stack":"Error: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:18\n    at Array.forEach (<anonymous>)\n    at Object.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:3)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)","code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\a0847\\Desktop\\Elysia\\login.js"]},"msg":"Uncaught Exception Monitor: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js"}
+{"level":50,"time":1688391918662,"pid":5876,"hostname":"Pruk","err":{"type":"Error","message":"Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js","stack":"Error: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:18\n    at Array.forEach (<anonymous>)\n    at Object.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:3)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)","code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\a0847\\Desktop\\Elysia\\login.js"]},"msg":"Uncaught Exception: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js"}
+{"level":30,"time":1688391919210,"pid":5876,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688391919924,"pid":5876,"hostname":"Pruk","level":"error","message":{}}
+{"level":30,"time":1688391920910,"pid":5876,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688391920945,"pid":5876,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688391921038,"pid":5876,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688391921038,"pid":5876,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688391921041,"pid":5876,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688391921068,"pid":5876,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":50,"time":1688391921069,"pid":5876,"hostname":"Pruk","err":{"type":"Error","message":"Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js","stack":"Error: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:18\n    at Array.forEach (<anonymous>)\n    at Object.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:3)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)","code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\a0847\\Desktop\\Elysia\\login.js"]},"msg":"Uncaught Exception Monitor: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js"}
+{"level":50,"time":1688391921072,"pid":5876,"hostname":"Pruk","err":{"type":"Error","message":"Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js","stack":"Error: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:18\n    at Array.forEach (<anonymous>)\n    at Object.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:3)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)","code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\a0847\\Desktop\\Elysia\\login.js"]},"msg":"Uncaught Exception: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js"}
+{"level":30,"time":1688391921606,"pid":5876,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688391922335,"pid":5876,"hostname":"Pruk","level":"error","message":{}}
+{"level":30,"time":1688391923321,"pid":5876,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688391923374,"pid":5876,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688391923471,"pid":5876,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688391923471,"pid":5876,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688391923474,"pid":5876,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688391923505,"pid":5876,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":50,"time":1688391923506,"pid":5876,"hostname":"Pruk","err":{"type":"Error","message":"Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js","stack":"Error: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:18\n    at Array.forEach (<anonymous>)\n    at Object.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:3)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)","code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\a0847\\Desktop\\Elysia\\login.js"]},"msg":"Uncaught Exception Monitor: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js"}
+{"level":50,"time":1688391923509,"pid":5876,"hostname":"Pruk","err":{"type":"Error","message":"Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js","stack":"Error: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:18\n    at Array.forEach (<anonymous>)\n    at Object.<anonymous> (C:\\Users\\a0847\\Desktop\\Elysia\\login.js:120:3)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)","code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\a0847\\Desktop\\Elysia\\login.js"]},"msg":"Uncaught Exception: Cannot find module './handlers/'\nRequire stack:\n- C:\\Users\\a0847\\Desktop\\Elysia\\login.js"}
+{"level":30,"time":1688391934412,"pid":13760,"hostname":"Pruk","msg":"Initialize multi-process sharding..."}
+{"level":30,"time":1688391934413,"pid":13760,"hostname":"Pruk","msg":"Checking connection to server..."}
+{"level":30,"time":1688391934416,"pid":13760,"hostname":"Pruk","msg":"Creating shading manager..."}
+{"level":30,"time":1688391934418,"pid":13760,"hostname":"Pruk","msg":"Create shardCreate event..."}
+{"level":30,"time":1688391934418,"pid":13760,"hostname":"Pruk","msg":"Spawn shards..."}
+{"level":30,"time":1688391934418,"pid":13760,"hostname":"Pruk","msg":"Successful to create multi-process sharding."}
+{"level":30,"time":1688391934807,"pid":13760,"hostname":"Pruk","msg":"Launched Cluster 0 || 1||0shards"}
+{"level":30,"time":1688391935655,"pid":13760,"hostname":"Pruk","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1688391935698,"pid":13760,"hostname":"Pruk","msg":"Client Events Loaded!"}
+{"level":30,"time":1688391935771,"pid":13760,"hostname":"Pruk","msg":"Connected to the database! [LOCAL DATABASE/JSON]"}
+{"level":30,"time":1688391935771,"pid":13760,"hostname":"Pruk","msg":"\u001b[92m[DB] Databases loaded!\u001b[39m"}
+{"level":30,"time":1688391935774,"pid":13760,"hostname":"Pruk","msg":"Shoukaku Node Events Loaded!"}
+{"level":30,"time":1688391935798,"pid":13760,"hostname":"Pruk","msg":"Shoukaku Player Events Loaded!"}
+{"level":30,"time":1688391935901,"pid":13760,"hostname":"Pruk","msg":"Loaded 3 AutoRun events."}
+{"level":30,"time":1688391935901,"pid":13760,"hostname":"Pruk","msg":"Booting client..."}
+{"level":30,"time":1688391936369,"pid":13760,"hostname":"Pruk","msg":"36 Interactions Loaded!"}
+{"level":30,"time":1688391937424,"pid":13760,"hostname":"Pruk","msg":"Shard 0 Ready!"}
+{"level":30,"time":1688391937462,"pid":13760,"hostname":"Pruk","msg":"Loading AutoDeploy Plugin infofully"}
+{"level":30,"time":1688391937463,"pid":13760,"hostname":"Pruk","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1688391937467,"pid":13760,"hostname":"Pruk","msg":"Logged in as Elysia[Ego] (ID: 950169287291711508)is Ready: 1.854s"}
+{"level":30,"time":1688391938725,"pid":13760,"hostname":"Pruk","msg":"Interactions deployed! Exiting auto deploy..."}

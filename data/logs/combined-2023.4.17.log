@@ -1,0 +1,184 @@
+{"level":30,"time":1684320418268,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684320420175,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684320422490,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684320422562,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684320422769,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684320422784,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684320422791,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684320423312,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684320423882,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684320423968,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684320423969,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684320424064,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684320424294,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684320621863,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684320624072,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684320627000,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684320627064,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684320627371,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684320627386,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684320627392,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684320627712,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684320628286,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684320628386,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684320628387,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684320628566,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684320629689,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684320721176,"pid":82,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684320723063,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684320725183,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684320725200,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684320725464,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684320725475,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684320725478,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684320726096,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684320726601,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684320726670,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684320726671,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684320726719,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684320726985,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":50,"time":1684321050470,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"TypeError: Cannot read properties of null (reading 'some')\n    at Object.run (/home/container/commands/owner/addyoutube.js:67:18)"}
+{"level":30,"time":1684321129078,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684321131070,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684321133367,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684321133385,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684321133573,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684321133585,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684321133590,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684321133972,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684321134586,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684321134682,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684321134683,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684321134885,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684321135263,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684321494467,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684321496486,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684321498904,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684321498989,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684321499193,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684321499276,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684321499280,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684321499599,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684321500491,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684321500519,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684321500520,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684321500668,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684321500818,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684321571373,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684321573275,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684321575613,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684321575685,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684321575877,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684321575889,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684321575894,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684321576220,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684321576764,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684321576787,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684321576788,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684321576968,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684321577276,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684331502280,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684331504364,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684331506875,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684331506896,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684331507089,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684331507165,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684331507170,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684331507484,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684331508057,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684331508084,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684331508085,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684331508165,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684331508609,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684331550978,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684331552869,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684331554999,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684331555079,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684331555272,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684331555283,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684331555287,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684331555982,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684331556582,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684331556609,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684331556610,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684331556701,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684331556972,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684332162365,"pid":82,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684332164483,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684332166907,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684332166979,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684332167184,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684332167196,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684332167266,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684332167575,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684332168275,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684332168375,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684332168376,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684332168568,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684332169077,"pid":94,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684332528972,"pid":84,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684332530970,"pid":96,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684332533277,"pid":96,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684332533302,"pid":96,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684332533502,"pid":96,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684332533583,"pid":96,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684332533591,"pid":96,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684332533997,"pid":96,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684332534566,"pid":96,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684332534787,"pid":96,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684332534788,"pid":96,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684332534988,"pid":96,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684332535296,"pid":96,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684332592688,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684332594475,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684332596592,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684332596610,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684332596792,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684332596866,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684332596873,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684332597290,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684332597971,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684332597989,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684332597990,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684332598063,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684332599167,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684332655175,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684332656982,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684332659377,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 6 AutoRun events."}
+{"level":30,"time":1684332659402,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684332659586,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684332659597,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684332659601,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684332660086,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684332660603,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684332660622,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684332660623,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684332660797,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684332660989,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684332764383,"pid":83,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Launched Cluster 0"}
+{"level":30,"time":1684332766181,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"AntiCrash Events Loaded!"}
+{"level":30,"time":1684332768487,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Loaded 7 AutoRun events."}
+{"level":30,"time":1684332768513,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client Events Loaded!"}
+{"level":30,"time":1684332768694,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Client 52 Commands Loaded!"}
+{"level":30,"time":1684332768772,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Player Events Loaded!"}
+{"level":30,"time":1684332768778,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Track Events Loaded!"}
+{"level":30,"time":1684332769176,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"63 Interactions Loaded!"}
+{"level":30,"time":1684332769774,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Ready!"}
+{"level":30,"time":1684332769878,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Logged in Elysia (1062820661510275132) is Ready!"}
+{"level":30,"time":1684332769879,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Auto deploy enabled. Reading interaction files..."}
+{"level":30,"time":1684332770069,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Lavalink [For Elysia] connected."}
+{"level":30,"time":1684332770380,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Interactions deployed! Exiting auto deploy..."}
+{"level":30,"time":1684335104652,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684340268084,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684351222116,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684360023932,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684366671979,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684372059681,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684380639740,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684383990465,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684385546972,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":40,"time":1684388182000,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Mongoose disconnected"}
+{"level":30,"time":1684388198801,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"[DB] DATABASE CONNECTED"}
+{"level":30,"time":1684388198801,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Reconnecting to database..."}
+{"level":30,"time":1684389835795,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
+{"level":30,"time":1684403045570,"pid":95,"hostname":"90592e5d-fe76-43ce-864f-9b3b42c830f7","msg":"Shard 0 Reconnected!"}
